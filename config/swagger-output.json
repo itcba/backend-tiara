@@ -12,7 +12,7 @@
   },
   "servers": [
     {
-      "url": "https://backend-top-up.onrender.com",
+      "url": "https://backend-tiara-production.up.railway.app",
       "description": "Main Production server"
     },
     {
