@@ -8,7 +8,6 @@ const {
 jest.mock("axios");
 
 describe("Midtrans Service", () => {
-  const serverKey = "Mid-server-D8CphT26Mc6q_wMdOeM3v28_";
   const snapUrl = "https://app.midtrans.com/snap/v1";
   const baseUrl = "https://api.midtrans.com/v2";
 
