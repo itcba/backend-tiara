@@ -182,7 +182,7 @@ const authLogout = async (req, res) => {
       }
     }
 
-    res.clearCookie("Authentication-User-Rifqi-Topup");
+    res.clearCookie("Authentication-User-Tiara-Games");
 
     return res.json({
       status: "success",
@@ -238,7 +238,7 @@ const sendEmailforgotPassword = async (req, res) => {
     await sendEmail(
       userForgotPass.us_username,
       userForgotPass.us_email,
-      "Forgot Password Rifqi Top Up",
+      "Forgot Password Tiara Games",
       "Please click the button below to reset your password",
       `${process.env.FRONTEND_URL}/create-new-password?token=${forgotPasswordToken}`,
       "Reset Password"

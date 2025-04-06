@@ -1,13 +1,13 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Final Project - Rifqi Top Up",
+    "title": "Final Project - Tiara Games",
     "version": "1.0.0",
-    "description": "This is the API documentation for the Rifqi Top Up platform. This platform allows users to manage and process their top-up transactions efficiently. The API allows for the management of orders, promotions, products, and payment verification, enabling users to create, track, and manage their top-up requests.",
+    "description": "This is the API documentation for the Tiara Games platform. This platform allows users to manage and process their top-up transactions efficiently. The API allows for the management of orders, promotions, products, and payment verification, enabling users to create, track, and manage their top-up requests.",
     "contact": {
-      "name": "Rifqi Top Up Support",
-      "email": "muhrifqis100@gmail.com",
-      "url": "https://rifqitopup.my.id"
+      "name": "Tiara Games Support",
+      "email": "doelkussoy@gmail.com",
+      "url": "https://tiaragames.netlify.app"
     }
   },
   "servers": [

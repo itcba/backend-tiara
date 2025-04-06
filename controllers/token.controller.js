@@ -132,7 +132,7 @@ const sendEmail = async (username, email, subject, title, link, label) => {
   });
 
   const mailOptions = {
-    from: `"Rifqi Top Up"  ${process.env.MAIL_USERNAME}`,
+    from: `"Tiara Games"  ${process.env.MAIL_USERNAME}`,
     to: email,
     subject: subject,
     html: htmlToSend,
